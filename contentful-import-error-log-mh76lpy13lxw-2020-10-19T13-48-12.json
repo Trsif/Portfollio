@@ -1,0 +1,102 @@
+[
+  {
+    "ts": "2020-10-19T17:48:53.413Z",
+    "level": "error",
+    "error": {
+      "name": "BadRequest",
+      "entity": {
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "ntiequ7mc6q6"
+            }
+          },
+          "id": "6rkOXCpyvuekYIgy6U6gGu",
+          "type": "Asset",
+          "createdAt": "2018-09-08T09:32:36.676Z",
+          "updatedAt": "2018-09-08T09:33:34.682Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "createdBy": {
+            "sys": {
+              "type": "Link",
+              "linkType": "User",
+              "id": "2XGcyQ3vKgm55htxMAIqsM"
+            }
+          },
+          "updatedBy": {
+            "sys": {
+              "type": "Link",
+              "linkType": "User",
+              "id": "2XGcyQ3vKgm55htxMAIqsM"
+            }
+          },
+          "publishedCounter": 1,
+          "version": 15,
+          "publishedBy": {
+            "sys": {
+              "type": "Link",
+              "linkType": "User",
+              "id": "2XGcyQ3vKgm55htxMAIqsM"
+            }
+          },
+          "publishedVersion": 14,
+          "firstPublishedAt": "2018-09-08T09:33:34.682Z",
+          "publishedAt": "2018-09-08T09:33:34.682Z"
+        },
+        "fields": {
+          "title": {
+            "en-US": "Gatsby logo"
+          },
+          "description": {
+            "en-US": "Gatsby logo"
+          },
+          "file": {
+            "en-US": {
+              "url": "//images.ctfassets.net/ntiequ7mc6q6/6rkOXCpyvuekYIgy6U6gGu/9369860d91a93b58c949fedfc8967703/1_t5EnAu3eSWJA0rmZ9v3xuw.png",
+              "details": {
+                "size": 111702,
+                "image": {
+                  "width": 1600,
+                  "height": 1600
+                }
+              },
+              "fileName": "1*t5EnAu3eSWJA0rmZ9v3xuw.png",
+              "contentType": "image/png"
+            }
+          }
+        }
+      },
+      "data": {
+        "status": 400,
+        "statusText": "Bad Request",
+        "message": "Cannot edit archived",
+        "details": {
+        },
+        "request": {
+          "url": "assets/6rkOXCpyvuekYIgy6U6gGu",
+          "headers": {
+            "Accept": "application/json, text/plain, */*",
+            "Content-Type": "application/vnd.contentful.management.v1+json",
+            "X-Contentful-User-Agent": "app contentful.import/7.9.14; feature library-import; sdk contentful-management.js/6.1.2; platform node.js/v12.19.0; os Linux/5.4.0-48-generic;",
+            "Authorization": "Bearer ...P2hZc",
+            "user-agent": "node.js/v12.19.0",
+            "Accept-Encoding": "gzip",
+            "X-Contentful-Version": 35,
+            "Content-Length": 307
+          },
+          "method": "put",
+          "payloadData": "{\"fields\":{\"title\":{\"en-US\":\"Gatsby logo\"},\"description\":{\"en-US\":\"Gatsby logo\"},\"file\":{\"en-US\":{\"contentType\":\"image/png\",\"fileName\":\"1*t5EnAu3eSWJA0rmZ9v3xuw.png\",\"upload\":\"https://images.ctfassets.net/ntiequ7mc6q6/6rkOXCpyvuekYIgy6U6gGu/9369860d91a93b58c949fedfc8967703/1_t5EnAu3eSWJA0rmZ9v3xuw.png\"}}}}"
+        },
+        "requestId": "02167ba7712ae74dc27852e0c0daa163"
+      }
+    }
+  }
+]
