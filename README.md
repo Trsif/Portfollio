@@ -34,7 +34,7 @@ Jun 2020 - Aug 2020
 *Student*
 Jan 2020 - Apr 2020
 - Gained skills such as Javascript, Ruby, Html and CSS in my 10-weeks developer training program  
--Collaborated on an agile team of my peers to complete in 2-week sprint projects such as Find Peace and FurEver 
+- Collaborated on an agile team of my peers to complete in 2-week sprint projects such as Find Peace and FurEver 
 
 **American Express**
 *Junior Engineer Intern*
